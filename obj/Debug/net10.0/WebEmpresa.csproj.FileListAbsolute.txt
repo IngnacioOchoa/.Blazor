@@ -68,7 +68,6 @@ C:\Users\Nacho\Desktop\WebEmpresa\obj\Debug\net10.0\compressed\ihb8kim0rm-{0}-no
 C:\Users\Nacho\Desktop\WebEmpresa\obj\Debug\net10.0\compressed\9k4xk4dg0i-{0}-h1s4sie4z3-h1s4sie4z3.gz
 C:\Users\Nacho\Desktop\WebEmpresa\obj\Debug\net10.0\compressed\lvtdcewe68-{0}-63fj8s7r0e-63fj8s7r0e.gz
 C:\Users\Nacho\Desktop\WebEmpresa\obj\Debug\net10.0\compressed\rv9qegl2gd-{0}-0j3bgjxly4-0j3bgjxly4.gz
-C:\Users\Nacho\Desktop\WebEmpresa\obj\Debug\net10.0\compressed\wp2hl5a9y6-{0}-abdmv1u4y3-abdmv1u4y3.gz
 C:\Users\Nacho\Desktop\WebEmpresa\obj\Debug\net10.0\compressed\czg58uw7ri-{0}-9hsif5t8mt-9hsif5t8mt.gz
 C:\Users\Nacho\Desktop\WebEmpresa\obj\Debug\net10.0\compressed\ii2kuv8op5-{0}-dwu72t6gfx-dwu72t6gfx.gz
 C:\Users\Nacho\Desktop\WebEmpresa\obj\Debug\net10.0\compressed\w4g0qddxe0-{0}-yp5qmf0qrn-yp5qmf0qrn.gz
@@ -83,3 +82,5 @@ C:\Users\Nacho\Desktop\WebEmpresa\obj\Debug\net10.0\refint\WebEmpresa.dll
 C:\Users\Nacho\Desktop\WebEmpresa\obj\Debug\net10.0\WebEmpresa.pdb
 C:\Users\Nacho\Desktop\WebEmpresa\obj\Debug\net10.0\WebEmpresa.genruntimeconfig.cache
 C:\Users\Nacho\Desktop\WebEmpresa\obj\Debug\net10.0\ref\WebEmpresa.dll
+C:\Users\Nacho\Desktop\WebEmpresa\obj\Debug\net10.0\WebEmpresa.sourcelink.json
+C:\Users\Nacho\Desktop\WebEmpresa\obj\Debug\net10.0\compressed\wp2hl5a9y6-{0}-y102vt2u2e-y102vt2u2e.gz
